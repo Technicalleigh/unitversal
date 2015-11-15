@@ -1,0 +1,33 @@
+{
+  "uuid": "03d02b70-b24a-4a4c-8547-230a00984c33",
+  "shortName": "UnitVersal",
+  "longName": "UnitVersal",
+  "companyName": "technicalleigh",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "name": "ACTION_UP",
+        "file": "action_bar_icon_up.png",
+        "type": "png"
+      },
+      {
+        "name": "ACTION_SELECT",
+        "file": "action_bar_icon_select.png",
+        "type": "png"
+      },
+      {
+        "name": "ACTION_DOWN",
+        "file": "action_bar_icon_down.png",
+        "type": "png"
+      }]
+  }
+}
