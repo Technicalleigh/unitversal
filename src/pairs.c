@@ -54,7 +54,7 @@ void init_unit_pairs() {
 
   strncpy(unit_pair_array[3].unit_a_label, "cm", 5);
   strncpy(unit_pair_array[3].unit_b_label, "in", 5);
-  strncpy(unit_pair_array[3].pair_name, "c <-> in", 15);
+  strncpy(unit_pair_array[3].pair_name, "cm <-> in", 15);
   unit_pair_array[3].unit_a_default_value = 30.0;
   unit_pair_array[3].unit_a_in_b_factor = 0.393701;
   unit_pair_array[3].a_step = 1;
